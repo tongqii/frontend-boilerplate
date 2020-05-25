@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[![Build Status](http://drone.mrcuriosity.org/api/badges/tongqii/frontend-boilerplate/status.svg)](http://drone.mrcuriosity.org/tongqii/frontend-boilerplate)
+
 ## Available Scripts
 
 In the project directory, you can run:
